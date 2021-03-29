@@ -1,0 +1,22 @@
+{
+  "name": "githubactionpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisA-97/GitHubActionsPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisA-97/GitHubActionsPractice/issues"
+  },
+  "homepage": "https://github.com/ChrisA-97/GitHubActionsPractice#readme",
+  "dependencies": {
+    "jasmine": "^3.7.0"
+  }
+}
